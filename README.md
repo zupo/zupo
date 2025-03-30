@@ -4,5 +4,5 @@
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zupo&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zupo&layout=compact&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zupo&layout=compact&hide=jupyter%20notebook,css,javascript&exclude_repo=delpt" />
 </a>
